@@ -6,8 +6,6 @@ A modern web application for discovering and managing local events. Built with R
 
 - 🔍 Search and filter events by category, date, and location
 - 🗺️ Interactive map view for event locations
-- 💰 Price display in INR (₹)
-- 📏 Distance measurements in kilometers
 - 👥 User authentication and profiles
 - 📱 Responsive design for mobile and desktop
 - 🎨 Modern UI with Tailwind CSS
