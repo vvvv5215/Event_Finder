@@ -1,8 +1,3 @@
-
-# Event_Finder
-
-https://drive.google.com/drive/folders/11trvK7BdC4Mo4dqWuKUoIsdCxGVGUh7G ( demo video )
-
 # EventFinderPro
 
 A modern web application for discovering and managing local events. Built with React, Node.js, and PostgreSQL.
